@@ -61,6 +61,8 @@ body {
   margin: 75px 300px;
   display: grid;
   grid-template-columns: 2fr 1fr;
+  box-shadow: 5px 2px 15px 0px rgba(0, 0, 0, 0.75);
+
   color: 1D2C3C;
   /* border: blue solid 2px; */
   background-color: #fff;
